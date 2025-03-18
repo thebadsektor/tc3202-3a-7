@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Clip Shape */
+.clip-shape {
+    clip-path: polygon(0% 8%, 55% 8%, 58% 0%, 100% 0%, 100% 100%, 0% 100%);
+    border-radius: 10px;
+  }
+  
+  /* Responsive Nav */
+  @media (max-width: 1120px) {
+    .hamburger-menu {
+      display: block !important;
+    }
+  
+    .desktop-nav {
+      display: none !important;
+    }
+  }
