@@ -123,12 +123,12 @@ List all the team members involved in the project. Include their roles and respo
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Research and project planning.
-- **Week 3-5**: Design and setup.
-- **Week 6-10**: Implementation.
-- **Week 11-12**: Testing and debugging.
-- **Week 13-14**: Final presentation and documentation.
-
+- **Week 1-3 (February 3)**: Concept Paper Proposal.
+- **Week 3-5 (February 25)**: Consultation.
+- **Week 5-6 (March 10)**: Plan User Journey and Refinement.
+- **Week 7-8 ()**: Research.
+- **Week 8-9 (March 18)**: Repository Preparation & Research.
+    -Related Repositories
 ## Changelog
 
 ### [Version 1.0.0] - 2024-09-07
